@@ -1,0 +1,26 @@
+name: beam_border
+description: >-
+  Animated border beam effect. Adds a traveling or breathing glow animation
+  around any widget — cards, buttons, inputs, or search bars.
+version: 1.0.0
+repository: https://github.com/vladimircimbora/beam_border
+
+topics:
+  - animation
+  - ui
+  - effects
+  - glow
+  - border
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
