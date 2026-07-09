@@ -1,8 +1,8 @@
 name: beam_border
 description: >-
   Animated border beam effect for Flutter. A lightweight widget that adds animated border beam effect around any element.
-version: 1.0.0
-repository: https://github.com/vladimircimbora/beam_border
+version: 1.0.1
+repository: https://github.com/vladoCimb/border_beam
 
 topics:
   - animation
