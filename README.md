@@ -2,7 +2,7 @@
 
 Animated border beam effect for Flutter. A lightweight widget that adds animated border beam effect around any element.
 
-A Flutter port of [Border Beam](https://beam.jakubantalik.com) by [Jakub Antalik](https://beam.jakubantalik.com) — the original animated border beam component for React.
+Flutter version of [Border Beam](https://beam.jakubantalik.com) — open the page to preview how the effect looks.
 
 ## Features
 
